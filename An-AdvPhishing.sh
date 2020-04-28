@@ -61,7 +61,7 @@ echo ""
 		 case $option in 
 			 
                          1)cd sites/ 
-			   ./ngrok http 4444
+			   
                            cd tiktok/
                            echo ""
                            echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
